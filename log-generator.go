@@ -21,4 +21,5 @@ func main() {
 	}
 }
 
-// GOOS=linux GOARCH=amd64 go build log-genearator.go
+// Build:
+// GOOS=linux GOARCH=amd64 go build log-generator.go
