@@ -5,6 +5,11 @@ Hint for building executable files: [link](https://www.digitalocean.com/communit
 ### log-generator
 A simple test log generator that prints the current date and time. You can change seconds to minutes by changing `time.Second` to `time.Minute` and the dependent variable name `randomSecond`.
 
+Launch hint:
+```
+sudo nohup ./log-generator &
+```
+
 Example:
 ```
 2024.02.03 18:15:45
