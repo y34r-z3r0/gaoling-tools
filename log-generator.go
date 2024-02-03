@@ -23,3 +23,5 @@ func main() {
 
 // Build:
 // GOOS=linux GOARCH=amd64 go build log-generator.go
+// Launch: 
+// nohup ./log-generator &
