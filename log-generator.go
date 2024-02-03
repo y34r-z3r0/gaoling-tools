@@ -20,6 +20,3 @@ func main() {
 		time.Sleep(time.Duration(randomSecond) * time.Second)
 	}
 }
-
-// Launch hint:
-// sudo nohup ./log-generator &
