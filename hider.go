@@ -6,10 +6,10 @@ import (
 )
 
 func main() {
-	entries, _ := os.ReadDir("./")
+	workDir, _ := os.ReadDir("./")
 	binName := "hider"
 
-	for _, e := range entries {
+	for _, e := range workDir {
 		oldName := e.Name()
 		if !strings.HasPrefix(e.Name(), ".") && e.Name() != binName {
 			newName := "." + oldName
