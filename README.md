@@ -16,3 +16,9 @@ Example:
 2024.02.03 18:15:46
 2024.02.03 18:15:49
 ```
+
+### hider
+Especially for those who have something to hide.
+Put this script in the directory where you want to hide all the files and run it. Once executed, the script file will self-destruct. 
+
+UNIX only!
