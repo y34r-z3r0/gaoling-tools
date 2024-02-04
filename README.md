@@ -19,6 +19,6 @@ Example:
 
 ### hider
 Especially for those who have something to hide.
-Put this script in the directory where you want to hide all the files and run it. Once executed, the script file will self-destruct. 
+Put builded binary file in the directory where you want to hide all the files and run it. Once executed, the script file will self-destruct. 
 
 UNIX only!
